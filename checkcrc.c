@@ -1,3 +1,4 @@
+// crc at sender side
 #include<stdio.h>
 int frl,genl,dup[20],rec[20];
 int rem[5],gen[5];
